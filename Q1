@@ -6,4 +6,4 @@ def factorial(n):
         return n*factorial(n-1)
 
 result=factorial(n)
-print("the factorial of",n,"is",result)
+print("Factorial of",n,"is:",result)
